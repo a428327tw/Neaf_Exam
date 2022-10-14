@@ -1,4 +1,4 @@
 # Neaf_Exam
-Name: Hsiao Ching Cheng  
-Time: 2022/10/15 13:00  
-Computer: Macbook Pro 16  
+Name: YHC  
+Time: 2022/10/14 16:00  
+Computer: Raspberry  
